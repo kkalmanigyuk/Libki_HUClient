@@ -1,6 +1,7 @@
 # Libki_HUClient
 A Libki Kioszkmenedzselési Rendszer magyarra fordított Windows kliense.
 A fordítás az eredeti git repozitóriumban található QT projektből készült. További javítást, módosítást letöltés után a QTLinguist-el lehet eszközölni a languages/libkiclient_hu.ts fájl módosításával, és a File>Release parancs kiadásával.
+
 Telepítés:
 1. Töltsd le a .ZIP fájlt
 2. Csomagold ki egy tetszőleges mappába
